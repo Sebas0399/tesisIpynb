@@ -1,0 +1,8 @@
+.venv
+archive
+ckpt_mobile
+ckpt_resnet
+dataset
+Nuevo
+saved_model
+rand_augment_tuning_mobile

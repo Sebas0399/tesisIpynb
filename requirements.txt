@@ -1,0 +1,10 @@
+keras==3.2.0
+tensorflow==2.17.0
+keras_cv
+pillow
+scipy
+matplotlib
+seaborn
+scikit-learn
+keras_tuner
+opencv-python
