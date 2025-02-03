@@ -1,8 +1,12 @@
 .venv
 archive
-ckpt_mobile
-ckpt_resnet
 dataset
 Nuevo
 saved_model
 rand_augment_tuning_mobile
+ckpt_effi_rand_augment
+ckpt_mobile_rand_augment
+ckpt_resnet_rand_augment
+rand_augment_tuning_effi
+rand_augment_tuning_mobile
+rand_augment_tuning_resnet
